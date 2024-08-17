@@ -1,0 +1,12 @@
+today we tend to think of the computer as an electronic device but, as we
+have seen in earlier chapters, there were many automatic computing devices
+based on mechanical or electromechanical technology. when the development
+of electronic devices reached the stage where reliable components started
+to become available, people began to consider their use in computing machines.
+the second world war spurred the development of electronics from what was
+essentially a small-scale analog industry concentrating on radio circuits
+to its status as one of the leading technologies of our day. about that time
+it occurred to several different people that this developing technology could
+be used as the basis for a calculating machine, but the expense of setting up the
+necessary research and development facilities meant that only the truly
+inspired, or the very foolish, would attempt any actual construction.
